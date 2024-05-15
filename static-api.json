@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "nama":"Michael Jordan",
+        "club":"Chicago Bulls",
+        "position":"Shooting Guard",
+        "iconId":"chicago_bulls",
+        "imageId":"michael_jordan"
+    },
+    {
+        "id":2,
+        "nama":"Lebron James",
+        "club":"Los Angeles Lakers",
+        "position":"Small Forward",
+        "iconId":"los_angeles_lakers",
+        "imageId":"lebron_james"
+    },
+    {
+        "id":3,
+        "nama":"Larry Bird",
+        "club":"Boston Celtics",
+        "position":"Small Forward",
+        "iconId":"boston_celtics",
+        "imageId":"larry_bird"
+    },
+    {
+        "id":4,
+        "nama":"Magic Johnson",
+        "club":"Los Angeles Lakers",
+        "position":"Point Guard",
+        "iconId":"los_angeles_lakers",
+        "imageId":"magic_johnson"
+    },
+    {
+        "id":5,
+        "nama":"Bill Russell",
+        "club":"Boston Celtics",
+        "position":"Center",
+        "iconId":"boston_celtics",
+        "imageId":"bill_russell"
+    },
+    {
+        "id":6,
+        "nama":"Kobe Bryant",
+        "club":"Los Angeles Lakers",
+        "position":"Shooting Guard",
+        "iconId":"los_angeles_lakers",
+        "imageId":"kobe_bryant"
+    },
+    {
+        "id":7,
+        "nama":"Stephen Curry",
+        "club":"Golden State Warriors",
+        "position":"Point Guard",
+        "iconId":"golden_state_warriors",
+        "imageId":"stephen_curry"
+    },
+    {
+        "id":8,
+        "nama":"Tim Duncan",
+        "club":"San Antonio Spurs",
+        "position":"Power Forward",
+        "iconId":"san_antonio_spurs",
+        "imageId":"tim_duncan"
+    },
+    {
+        "id":9,
+        "nama":"Hakeem Olajuwon",
+        "club":"Houston Rocket",
+        "position":"Center",
+        "iconId":"houston_rocket",
+        "imageId":"hakeem_olajuwon"
+    },
+    {
+        "id":10,
+        "nama":"Wilt Chamberlain",
+        "club":"Los Angeles Lakers",
+        "position":"Center",
+        "iconId":"los_angeles_lakers",
+        "imageId":"wilt_chamberlain"
+    }
+]
